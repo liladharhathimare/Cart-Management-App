@@ -1,16 +1,31 @@
-# shopping_card_app
+# 🛒 Flutter Cart Management App
 
-A new Flutter project.
+A complete Flutter shopping cart application with **local persistence** and **real-time state updates** using **Provider** and **SQLite**.  
+It allows users to browse products, add them to the cart, and manage quantities while keeping data stored locally.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Add to Cart / Remove from Cart** functionality
+- **Provider** for real-time state management
+- **SQLite** for local cart persistence
+- **SharedPreferences** for storing cart total and item count
+- **Responsive & Smooth UI**
+- Automatic cart data loading on app restart
+- Price calculation and quantity adjustment
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter (Dart)
+- **State Management:** Provider
+- **Database:** SQLite (sqflite package)
+- **Storage:** SharedPreferences
+- **UI:** Material Design
+
+---
+
+## 📂 Project Structure
+
