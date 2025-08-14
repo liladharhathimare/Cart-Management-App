@@ -1,31 +1,34 @@
-# 🛒 Flutter Cart Management App
+# 🍎 MyFruitShop — Flutter Shopping Cart App
 
-A complete Flutter shopping cart application with **local persistence** and **real-time state updates** using **Provider** and **SQLite**.  
-It allows users to browse products, add them to the cart, and manage quantities while keeping data stored locally.
+**MyFruitShop** is a simple yet powerful shopping cart application built with **Flutter**, designed to showcase **state management with Provider**, **local persistence using SQLite**, and **real-time price calculations**.  
+It provides a smooth and persistent cart experience, even after app restarts.
+
+---
+
+## 📸 Screenshots
+*(Add your screenshots here for better presentation)*
 
 ---
 
 ## 🚀 Features
 
-- **Add to Cart / Remove from Cart** functionality
-- **Provider** for real-time state management
-- **SQLite** for local cart persistence
-- **SharedPreferences** for storing cart total and item count
-- **Responsive & Smooth UI**
-- Automatic cart data loading on app restart
-- Price calculation and quantity adjustment
+- 🛒 **Add to Cart** — Add products to your cart with quantity management.  
+- 🔄 **Quantity Updates** — Increase or decrease item quantities in real-time.  
+- 💾 **Persistent Cart Data** — Save and retrieve cart data using **SQLite** + **SharedPreferences**.  
+- 💰 **Dynamic Total Calculation** — Cart total updates instantly on every change.  
+- 🗑 **Remove Items** — Easily remove products from your cart.  
+- 📱 **Responsive UI** — Works across different screen sizes.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-- **Framework:** Flutter (Dart)
-- **State Management:** Provider
-- **Database:** SQLite (sqflite package)
-- **Storage:** SharedPreferences
-- **UI:** Material Design
+- **Flutter** — UI framework for cross-platform apps  
+- **Provider** — State management  
+- **SQLite (sqflite)** — Local storage for cart persistence  
+- **SharedPreferences** — Lightweight data storage for small values (e.g., total price, item count)  
 
 ---
 
-## 📂 Project Structure
+
 
