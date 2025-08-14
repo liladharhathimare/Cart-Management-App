@@ -5,8 +5,6 @@ It provides a smooth and persistent cart experience, even after app restarts.
 
 ---
 
-## 📸 Screenshots
-*(Add your screenshots here for better presentation)*
 
 ---
 
