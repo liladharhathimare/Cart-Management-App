@@ -3,11 +3,6 @@
 **MyFruitShop** is a simple yet powerful shopping cart application built with **Flutter**, designed to showcase **state management with Provider**, **local persistence using SQLite**, and **real-time price calculations**.  
 It provides a smooth and persistent cart experience, even after app restarts.
 
----
-
-
----
-
 ## 🚀 Features
 
 - 🛒 **Add to Cart** — Add products to your cart with quantity management.  
